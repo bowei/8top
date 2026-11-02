@@ -1,0 +1,20 @@
+ Context: kind-ate   <n> Drain         <y> YAML             
+ Endpoint: port-fwd  <c> Available     <d> Describe         
+ 8top Rev: v0.1.0    <u> Unavailable   <?> Help             
+┌─────────────────────── Workers[3] ───────────────────────┐
+│ NAMESPA… POOL   POD      STATE STATUS    CPU  MEMORY AGE │
+│ ate      pool-a pool-a-1 READY ASSIGNED  250m 512Mi  1d  │
+│ ate      pool-a pool-a-2 READY FREE      250m 512Mi  1d  │
+│ ate      pool-a pool-a-3 LOST  UNAVAILA… 250m 512Mi  1d  │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+<workers>                                                   
+                                                            

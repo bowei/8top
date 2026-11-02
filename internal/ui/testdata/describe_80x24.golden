@@ -1,0 +1,24 @@
+ Context: kind-ate   <?> Help                                            ___    
+ Endpoint: port-fwd                                                     / _ \   
+ 8top Rev: v0.1.0                                                      ( 8top ) 
+┌───────────────────── Describe(actors/default/counter-1) ─────────────────────┐
+│kind: actors                                                                  │
+│metadata:                                                                     │
+│  atespace: default                                                           │
+│  name: counter-1                                                             │
+│spec:                                                                         │
+│  cells: [default, counter-1, default/counter, RUNNING, ate/pool-a-1, 10.0.0.1│
+│                                                                              │
+│# Related Egress(default/counter-1)                                           │
+│#   ATESPACE ACTOR     RULES VERSION AGE                                      │
+│#   default  counter-1 2     3       1h                                       │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+<actors> <default> <describe>                                                   
+                                                                                

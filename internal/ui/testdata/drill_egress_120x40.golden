@@ -1,0 +1,40 @@
+ Context: kind-ate   <y> YAML       <ctrl-d> Delete                                                              ___    
+ Endpoint: port-fwd  <d> Describe   <?> Help                                                                    / _ \   
+ 8top Rev: v0.1.0    <E> Edit                                                                                  ( 8top ) 
+┌──────────────────────────────────────────── Egress(default/counter-1)[1] ────────────────────────────────────────────┐
+│ ATESPACE ACTOR     RULES VERSION AGE                                                                                 │
+│ default  counter-1 2     3       1h                                                                                  │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+<atespaces> <actors> <default> <egress> <default/counter-1>                                                             
+                                                                                                                        

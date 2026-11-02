@@ -1,0 +1,24 @@
+ Context: kind-ate   <f> Toggle follow                                   ___    
+ Endpoint: port-fwd  <?> Help                                           / _ \   
+ 8top Rev: v0.1.0                                                      ( 8top ) 
+┌─────────────────── Logs(default/counter-1)[follow][ended] ───────────────────┐
+│2026-10-30T12:00:00Z starting counter                                         │
+│2026-10-30T12:00:01Z count=1                                                  │
+│2026-10-30T12:00:02Z count=2                                                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+<actors> <default> <logs>                                                       
+                                                                                

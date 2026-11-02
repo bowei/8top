@@ -1,0 +1,20 @@
+ Context: kind-ate   <?> Help                               
+ Endpoint: port-fwd                                         
+ 8top Rev: v0.1.0                                           
+┌────────────────────────── Help ──────────────────────────┐
+│RESOURCE                 GENERAL                       …  │
+│a        Resume          :           Command              │
+│s        Suspend         /           Filter               │
+│r        Revert          esc         Back                 │
+│e        Egress          enter       Drill down           │
+│l        Logs            ?           Help                 │
+│p        Port-Forward    0           All atespaces        │
+│t        Tag             1–9         Favorite atespace    │
+│y        YAML            shift-<col> Sort by column       │
+│d        Describe        ctrl-r      Refresh              │
+│E        Edit            ctrl-c      Quit                 │
+│ctrl-d   Delete                                           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+<actors> <default> <help>                                   
+                                                            

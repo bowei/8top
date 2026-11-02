@@ -1,0 +1,24 @@
+ Context: kind-ate   <a> Resume         <t> Tag                          ___    
+ Endpoint: port-fwd  <s> Suspend        <y> YAML                        / _ \   
+ 8top Rev: v0.1.0    <r> Revert         <d> Describe                   ( 8top ) 
+                     <e> Egress         <E> Edit                                
+                     <l> Logs           <ctrl-d> Delete                         
+                     <p> Port-Forward   <?> Help                                
+┌───────────────────────────── Actors(default)[3] ─────────────────────────────┐
+│ ATESPACE NAME      TEMPLATE     STATE     WORKER POD   WORKER IP VERSION AGE │
+│ default  counter-1 default/cou… RUNNING   ate/pool-a-1 10.0.0.1  7       2h  │
+│ default  coun╭────────────────────────────────────────────────╮  7       1h  │
+│ default  coun│ <Suspend>                                      │  7       5m  │
+│              │                                                │              │
+│              │ Suspend actor default/counter-1?               │              │
+│              │                                                │              │
+│              │ [ ] Wait for the snapshot to reach storage (w) │              │
+│              │                                                │              │
+│              │              OK (y)    Cancel (n)              │              │
+│              ╰────────────────────────────────────────────────╯              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+<actors> <default>                                                              
+                                                                                

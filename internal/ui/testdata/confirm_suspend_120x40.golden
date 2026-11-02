@@ -1,0 +1,40 @@
+ Context: kind-ate   <a> Resume    <e> Egress         <t> Tag        <E> Edit                                    ___    
+ Endpoint: port-fwd  <s> Suspend   <l> Logs           <y> YAML       <ctrl-d> Delete                            / _ \   
+ 8top Rev: v0.1.0    <r> Revert    <p> Port-Forward   <d> Describe   <?> Help                                  ( 8top ) 
+┌───────────────────────────────────────────────── Actors(default)[3] ─────────────────────────────────────────────────┐
+│ ATESPACE NAME      TEMPLATE        STATE     WORKER POD   WORKER IP VERSION AGE                                      │
+│ default  counter-1 default/counter RUNNING   ate/pool-a-1 10.0.0.1  7       2h                                       │
+│ default  counter-2 default/counter SUSPENDED                        7       1h                                       │
+│ default  counter-3 default/counter CRASHED                          7       5m                                       │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                  ╭────────────────────────────────────────────────╮                                  │
+│                                  │ <Suspend>                                      │                                  │
+│                                  │                                                │                                  │
+│                                  │ Suspend actor default/counter-1?               │                                  │
+│                                  │                                                │                                  │
+│                                  │ [ ] Wait for the snapshot to reach storage (w) │                                  │
+│                                  │                                                │                                  │
+│                                  │              OK (y)    Cancel (n)              │                                  │
+│                                  ╰────────────────────────────────────────────────╯                                  │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+│                                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+<actors> <default>                                                                                                      
+                                                                                                                        

@@ -1,0 +1,40 @@
+ [91mContext:[m [1;97mkind-ate[m   [1;94m<a>[m [37mResume[m    [1;94m<e>[m [37mEgress[m         [1;94m<t>[m [37mTag[m        [1;94m<E>[m [37mEdit[m                                  [1;91m  ___    [m
+ [91mEndpoint:[m [1;97mport-fwd[m  [1;94m<s>[m [37mSuspend[m   [1;94m<l>[m [37mLogs[m           [1;94m<y>[m [37mYAML[m       [1;94m<ctrl-d>[m [37mDelete[m                           [1;91m / _ \   [m
+ [91m8top Rev:[m [1;97mv0.1.0[m    [1;94m<r>[m [37mRevert[m    [1;94m<p>[m [37mPort-Forward[m   [1;94m<d>[m [37mDescribe[m   [1;95m<?>[m [37mHelp[m                                  [1;91m( 8top ) [m
+[94m┌─────────────────────────────────────────────────[m [1;96mActors[m[1;96m([m[1;95mdefault[m[1;96m)[m[1;96m[[m[1;97m3[m[1;96m][m [94m─────────────────────────────────────────────────┐[m
+[94m│[m [1;97mATESPACE[m [1;97mNAME     [m [1;97mTEMPLATE       [m [1;97mSTATE    [m [1;97mWORKER POD  [m [1;97mWORKER IP[m [1;97mVERSION[m [1;97mAGE                                     [m [94m│[m
+[94m│[m [30;106mdefault  counter-1 default/counter RUNNING   ate/pool-a-1 10.0.0.1  7       2h                                       [m[94m│[m
+[94m│[m [37mdefault[m  [37mcounter-2[m [37mdefault/counter[m [37mSUSPENDED[m [37m[m             [37m[m          [37m7[m       [37m1h[m                                       [94m│[m
+[94m│[m [91mdefault[m  [91mcounter-3[m [91mdefault/counter[m [91mCRASHED[m   [91m[m             [91m[m          [91m7[m       [91m5m[m                                       [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m│[m                                                                                                                      [94m│[m
+[94m└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘[m
+[30;106m<actors>[m [30;101m<default>[m                                                                                                      
+                                                                                                                        

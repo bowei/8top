@@ -1,0 +1,20 @@
+ Context: kind-ate   <a> Resume         <t> Tag             
+ Endpoint: port-fwd  <s> Suspend        <y> YAML            
+ 8top Rev: v0.1.0    <r> Revert         <d> Describe        
+                     <e> Egress         <E> Edit            
+                     <l> Logs           <ctrl-d> Delete     
+                     <p> Port-Forward   <?> Help            
+╭──────────────────────────────────────────────────────────╮
+│Tag name: e                                               │
+╰──────────────────────────────────────────────────────────╯
+┌─────────────────── Actors(default)[3] ───────────────────┐
+│ ATESP… NAME   TEMPL… STATE   WORKER… WORKER… VERSION AGE │
+│ defau… count… defau… RUNNING ate/po… 10.0.0… 7       2h  │
+│ defau… count… defau… SUSPEN…                 7       1h  │
+│ defau… count… defau… CRASHED                 7       5m  │
+│                                                          │
+│                                                          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+<actors> <default>                                          
+                                                            

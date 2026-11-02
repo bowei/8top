@@ -1,0 +1,24 @@
+ Context: kind-ate   <a> Resume         <t> Tag                          ___    
+ Endpoint: port-fwd  <s> Suspend        <y> YAML                        / _ \   
+ 8top Rev: v0.1.0    <r> Revert         <d> Describe                   ( 8top ) 
+                     <e> Egress         <E> Edit                                
+                     <l> Logs           <ctrl-d> Delete                         
+                     <p> Port-Forward   <?> Help                                
+┌───────────────────────────── Actors(default)[3] ─────────────────────────────┐
+│ ATESPACE NAME      TEMPLATE     STATE     WORKER POD   WORKER IP VERSION AGE │
+│ default  counter-1 default/cou… RUNNING   ate/pool-a-1 10.0.0.1  7       2h  │
+│ default  counter-2 default/cou… SUSPENDED                        7       1h  │
+│ default  counter-3 default/cou… CRASHED                          7       5m  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+<actors> <default>                                                              
+FailedPrecondition: actor must be SUSPENDED to resume                           

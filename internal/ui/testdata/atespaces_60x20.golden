@@ -1,0 +1,20 @@
+ Context: kind-ate   <y> YAML          <?> Help             
+ Endpoint: port-fwd  <d> Describe                           
+ 8top Rev: v0.1.0    <ctrl-d> Delete                        
+┌────────────────────── Atespaces[2] ──────────────────────┐
+│ NAME    AGE                                              │
+│ default 3d                                               │
+│ myspace 1h                                               │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+<atespaces>                                                 
+                                                            

@@ -1,0 +1,20 @@
+ Context: kind-ate   <a> Resume         <t> Tag             
+ Endpoint: port-fwd  <s> Suspend        <y> YAML            
+ 8top Rev: v0.1.0    <r> Revert         <d> Describe        
+                     <e> Egress         <E> Edit            
+                     <l> Logs           <ctrl-d> Delete     
+                     <p> Port-Forward   <?> Help            
+┌─────────────────── Actors(default)[3] ───────────────────┐
+│ ATESP… NAME   TEMPL… STATE   WORKER… WORKER… VERSION AGE │
+│ defau… c╭──────────────────────────────────────╮     2h  │
+│ defau… c│ <Delete>                             │     1h  │
+│ defau… c│                                      │     5m  │
+│         │ Delete actor default/counter-1?      │         │
+│         │                                      │         │
+│         │         OK (y)    Cancel (n)         │         │
+│         ╰──────────────────────────────────────╯         │
+│                                                          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+<actors> <default>                                          
+                                                            
